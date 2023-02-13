@@ -1,0 +1,75 @@
+.clearfix::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+.kon{
+    background-color: #141f40;
+    width: 400px;
+    height: 100px;
+}
+
+.midori{
+    background-color: #80bfa8;
+    width: 150px;
+    height: 250px;
+    float: left;
+}
+
+.kiiro{
+    background-color: #dbd400;
+    width: 150px;
+    height: 50px;
+    float: left;
+}
+
+
+.pink{
+    background-color: #ff9e6b;
+    width: 100px;
+    height: 50px;
+   float: left;
+}
+
+.pink2{
+    background-color: #ff9e6b;
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+
+
+.blue{
+    background-color: #0093b7;
+    width: 150px;
+    height: 100px;
+    float: left;
+}
+
+.tyairo{
+    background-color: #8c2727;
+    width: 250px;
+    height: 100px;
+    float: left;
+}
+.oudo{
+    background-color: #d98d30;
+    width: 400px;
+    height: 100px;
+    float: left;
+}
+
+/*.midleft{
+   width: 250px;
+   height: 50px;
+   
+}
+
+.midright{
+    width: 250px;
+    height: 100px; 
+}
+*/
+
+
